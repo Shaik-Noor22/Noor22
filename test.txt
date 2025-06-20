@@ -3,6 +3,4 @@ beta
 gamma
 noor
 sonal
-gopi
-koushik
-shyam
+
